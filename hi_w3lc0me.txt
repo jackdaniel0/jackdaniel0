@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @jackdaniel0
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning cybersecurity
+- 💞️ I’m looking to collaborate on offensive security
+- 📫 How to reach me fredokrugger13@gmail.com
+
+<!---
+jackdaniel0/jackdaniel0 is a ✨ special ✨ repository because its `hi_w3lc0me.txt` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> by the way, nobody cares 😐
